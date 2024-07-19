@@ -19,7 +19,7 @@
 #' The length of n.points must correspond to the number of components.
 #' @param beta0s Intercepts. The length of beta0s must correspond to the number of components
 #' in the LGCP.
-#' @importFrom RandomFields RFsimulate
+#' @importFrom geostatsp RFsimulate
 #'
 #' @return Multivariate LGCP
 #' @author Kristian Bjørn Hessellund, Ganggang Xu, Yongtao Guan and Rasmus Waagepetersen.
